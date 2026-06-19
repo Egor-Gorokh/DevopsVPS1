@@ -1,0 +1,3 @@
+mkdir docker-env-lesson && cd docker-env-lesson
+# создайте файлы выше
+npm install
